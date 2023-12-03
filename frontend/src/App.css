@@ -1,5 +1,5 @@
 .App{
-    height: 120vh;
+    height: 100vh;
     display: flex;
     background: url('../public/bcg.jpg');
     background-size: cover;
